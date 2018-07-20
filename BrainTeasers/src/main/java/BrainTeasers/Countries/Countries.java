@@ -1,4 +1,4 @@
-package BrainTeasers;
+package BrainTeasers.Countries;
 
 import java.util.ArrayList;
 import java.util.HashMap;

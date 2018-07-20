@@ -1,4 +1,4 @@
-package BrainTeasers;
+package BrainTeasers.QuickDelete;
 
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
