@@ -5,4 +5,4 @@
  * @author oren
  *
  */
-package BrainTeasers.QuickDelete;
+package BrainTeasers.DataStructres;

@@ -1,4 +1,4 @@
-package BrainTeasers.QuickDelete;
+package BrainTeasers.DataStructres.QuickDelete;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
